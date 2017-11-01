@@ -3,3 +3,5 @@ changed remotely
 
 changed locally
 
+delta local
+
